@@ -1,0 +1,28 @@
+.feature-icon {
+    width: 4rem;
+    height: 4rem;
+    border-radius: .75rem;
+  }
+  .mycards{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 5px;
+  }
+  .footer{
+    /* background-color: w; */
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  
+  }
+  .card>img{
+    display: inline-block;
+    justify-content: center;
+     max-width:340px;
+    max-height :225px;
+    width: auto;
+     height: auto;
+  }
